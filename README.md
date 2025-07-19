@@ -40,15 +40,16 @@ Soy un desarrollador Full Stack apasionado por la tecnología, con experiencia c
 ---
 
 ## 📈 Stats
+
 <div align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com?user=Mastacio&theme=tokyonight&hide_border=true&border_radius=10" width="80%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mastacio&theme=tokyonight&hide_border=true&border_radius=10" width="90%" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mastacio&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="40%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mastacio&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mastacio&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mastacio&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
 </div>
 
 ---
@@ -65,7 +66,8 @@ Soy un desarrollador Full Stack apasionado por la tecnología, con experiencia c
   Sistema integral para suplidores de electrodomésticos con control de stock, categorías, reportes e imágenes.
 
 - 🔐 **API de Seguridad (OAuth2 + JWT)**  
-  Microservicio seguro con middlewares personalizados, login con tokens, y manejo de refresh tokens usando .NET y YARP.
+  Microservicio seguro con middlewares personalizados, login con tokens, y manejo de refresh tokens usando .NET y YARP.  
+  🔗 [Repositorio del proyecto](https://github.com/Mastacio/SecurityApi)
 
 - ☁️ **Azure Functions en Docker + Portainer**  
   Despliegue de funciones usando pipelines DevOps y contenedores auto gestionados.
