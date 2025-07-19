@@ -3,45 +3,43 @@
 
 ---
 
-🎯 **Desarrollador Full Stack con enfoque en soluciones empresariales**
-  
-Soy un profesional apasionado por el desarrollo de software moderno, con experiencia en la creación de sistemas empresariales y APIs robustas. Me especializo en entornos .NET y desarrollo frontend/backend con tecnologías actuales. Me gusta trabajar en proyectos escalables, aplicar buenas prácticas y mantenerme aprendiendo constantemente.
+## 🎯 Sobre mí
+
+Soy un desarrollador Full Stack apasionado por la tecnología, con experiencia creando soluciones empresariales robustas usando tecnologías como .NET, Flutter, React y Azure. Me enfoco en sistemas modulares, APIs seguras y arquitectura escalable, con buenas prácticas de desarrollo moderno.
 
 ---
 
-### 🛠️ Tecnologías y herramientas
+## 🛠️ Tecnologías y herramientas
 
-<p align="left">
-  <!-- Lenguajes -->
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+### Lenguajes y frameworks
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-<p align="left">
-  <!-- Backend / Infraestructura -->
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=azure-devops&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure%20Functions-0062AD?style=flat-square&logo=azure-functions&logoColor=white" />
-  <img src="https://img.shields.io/badge/YARP-512BD4?style=flat-square&logo=reverse-proxy&logoColor=white" />
+### DevOps, Cloud e infraestructura
+<p>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white" />
+  <img src="https://img.shields.io/badge/YARP-512BD4?style=for-the-badge&logo=reverse-proxy&logoColor=white" />
 </p>
 
-<p align="left">
-  <!-- Bases de datos -->
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/CosmosDB-0062AD?style=flat-square&logo=azure-cosmos-db&logoColor=white" />
+### Bases de datos
+<p>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/CosmosDB-0062AD?style=for-the-badge&logo=azure-cosmos-db&logoColor=white" />
 </p>
 
 ---
 
-### 🧠 Proyectos y experiencia destacada
+## 🧠 Proyectos y experiencia destacada
 
 - 🏗️ **Sistema de Registro de Actividades de Ingeniería Civil**  
   Gestión completa de procesos en obras civiles utilizando .NET y SQL Server.
@@ -50,32 +48,46 @@ Soy un profesional apasionado por el desarrollo de software moderno, con experie
   Aplicación desarrollada con MVC .NET para gestionar pacientes, citas y expedientes médicos.
 
 - 📦 **Sistema de Inventario de Suplidores**  
-  Desarrollo completo de una plataforma para suplidores de electrodomésticos, incluyendo manejo de stock, categorías, reportes, imágenes y más.
+  Sistema integral para suplidores de electrodomésticos con control de stock, categorías, reportes e imágenes.
 
-- 🔐 **API de Seguridad y Autenticación (OAuth2 + JWT)**  
-  Microservicio para manejo de login seguro, refresh tokens, middlewares personalizados con .NET y YARP Gateway.
+- 🔐 **API de Seguridad (OAuth2 + JWT)**  
+  Microservicio seguro con middlewares personalizados, login con tokens, y manejo de refresh tokens usando .NET y YARP.
 
-- ⚙️ **Integración con Azure Functions y Docker**  
-  Despliegue de funciones en contenedores, orquestadas desde Portainer, usando pipelines y DevOps en entornos híbridos.
-
----
-
-### 📈 Próximamente
-
-- 🗂️ Aquí pronto agregaré mis proyectos destacados publicados en GitHub.  
-- 🧪 Experimentos con arquitectura basada en eventos (CQRS + Mediatr + RabbitMQ).  
-- 📱 Aplicaciones móviles en Flutter con integración a APIs externas.
+- ☁️ **Azure Functions en Docker + Portainer**  
+  Despliegue de funciones usando pipelines DevOps y contenedores auto gestionados.
 
 ---
 
-### 📬 Conéctate conmigo
+## 📈 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ManuelAstacio-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-astacio/)
-<!-- Puedes agregar más medios de contacto aquí en el futuro -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mastacio&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mastacio&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mastacio&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="40%" />
+</div>
+
+---
+
+## 🗂️ Próximamente
+
+- 🧪 Experimentos con arquitectura basada en eventos (CQRS, Mediatr, RabbitMQ).
+- 📱 Aplicaciones móviles en Flutter conectadas a APIs empresariales.
+- 📦 Proyectos de automatización e infraestructura moderna.
+
+---
+
+## 📬 Conéctate conmigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ManuelAstacio-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-astacio/)
+<!-- Puedes agregar más métodos de contacto aquí -->
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=manuel-astacio&label=Profile%20views&color=0e75b6&style=flat" alt="manuel-astacio" />
+  <img src="https://komarev.com/ghpvc/?username=Mastacio&label=Profile%20views&color=0e75b6&style=flat" alt="Mastacio" />
 </p>
-
