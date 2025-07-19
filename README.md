@@ -39,6 +39,20 @@ Soy un desarrollador Full Stack apasionado por la tecnología, con experiencia c
 
 ---
 
+## 📈 Stats
+<div align="center">
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=Mastacio&theme=tokyonight&hide_border=true&border_radius=10" width="80%" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mastacio&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mastacio&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="40%" />
+</div>
+
+---
+
 ## 🧠 Proyectos y experiencia destacada
 
 - 🏗️ **Sistema de Registro de Actividades de Ingeniería Civil**  
@@ -55,21 +69,6 @@ Soy un desarrollador Full Stack apasionado por la tecnología, con experiencia c
 
 - ☁️ **Azure Functions en Docker + Portainer**  
   Despliegue de funciones usando pipelines DevOps y contenedores auto gestionados.
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mastacio&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mastacio&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mastacio&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="40%" />
-</div>
 
 ---
 
