@@ -64,6 +64,10 @@ Soy un desarrollador Full Stack apasionado por la tecnología, con experiencia c
   Una pasarela (gateway) construida en .NET 8 que utiliza YARP (Yet Another Reverse Proxy) para enrutar solicitudes HTTP y aplicar autenticación basada en JWT.  
   🔗 [Repositorio del proyecto](https://github.com/Mastacio/Gateway)
 
+- 🌐 **AppAuthentication Frontend**  
+  App de autenticación y gestión de usuarios, roles y permisos, desarrollado con Next.js, TypeScript y NextAuth.  
+  🔗 [Repositorio del proyecto](https://github.com/Mastacio/AppAuthentication)
+
 - 🏗️ **Sistema de Registro de Actividades de Ingeniería Civil**  
   Gestión completa de procesos en obras civiles utilizando .NET y SQL Server.
 
