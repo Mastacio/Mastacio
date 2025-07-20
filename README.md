@@ -56,6 +56,14 @@ Soy un desarrollador Full Stack apasionado por la tecnología, con experiencia c
 
 ## 🧠 Proyectos y experiencia destacada
 
+- 🔐 **API de Seguridad (OAuth2 + JWT)**  
+  Microservicio seguro con middlewares personalizados, login con tokens, y manejo de refresh tokens usando .NET.  
+  🔗 [Repositorio del proyecto](https://github.com/Mastacio/SecurityApi)
+
+- 🌐 **Gateway**  
+  Una pasarela (gateway) construida en .NET 8 que utiliza YARP (Yet Another Reverse Proxy) para enrutar solicitudes HTTP y aplicar autenticación basada en JWT.  
+  🔗 [Repositorio del proyecto](https://github.com/Mastacio/Gateway)
+
 - 🏗️ **Sistema de Registro de Actividades de Ingeniería Civil**  
   Gestión completa de procesos en obras civiles utilizando .NET y SQL Server.
 
@@ -64,10 +72,6 @@ Soy un desarrollador Full Stack apasionado por la tecnología, con experiencia c
 
 - 📦 **Sistema de Inventario de Suplidores**  
   Sistema integral para suplidores de electrodomésticos con control de stock, categorías, reportes e imágenes.
-
-- 🔐 **API de Seguridad (OAuth2 + JWT)**  
-  Microservicio seguro con middlewares personalizados, login con tokens, y manejo de refresh tokens usando .NET y YARP.  
-  🔗 [Repositorio del proyecto](https://github.com/Mastacio/SecurityApi)
 
 - ☁️ **Azure Functions en Docker + Portainer**  
   Despliegue de funciones usando pipelines DevOps y contenedores auto gestionados.
