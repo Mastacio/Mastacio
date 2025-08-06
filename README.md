@@ -73,6 +73,7 @@ Soy un desarrollador Full Stack apasionado por la tecnología, con experiencia c
 - 🩺 **ClinicaFácil**  
   Sistema web desarrollado con Django para la administración completa de consultorios médicos. Permite gestionar pacientes, doctores, especialidades, citas médicas, historiales clínicos y usuarios. Incorpora autenticación con permisos por roles,    interfaz amigable para personal médico y administración, y funciones clave para una atención eficiente.  
   🔗 [Repositorio del proyecto](https://github.com/Mastacio/ClinicaFacil)
+  🔗 [Demo](http://app.ddns.net:8000)
 
 - 🏗️ **Sistema de Registro de Actividades de Ingeniería Civil**  
   Gestión completa de procesos en obras civiles utilizando .NET y SQL Server.
