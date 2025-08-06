@@ -43,9 +43,9 @@ Soy un desarrollador Full Stack apasionado por la tecnología, con experiencia c
 
 ## 📈 Stats
 
-<div align="center">
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mastacio&theme=tokyonight&hide_border=true&border_radius=10)
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mastacio&theme=tokyonight&hide_border=true&border_radius=10)
+
+
 
 <br />
 
